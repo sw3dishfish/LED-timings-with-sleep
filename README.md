@@ -1,5 +1,5 @@
-# LED-timings-with-sleep
-LED control sequence with sleep interval
+# LED-timings-with-sleep for Arduino Uno
+LED control sequence with sleep interval built in C++ for Arduino Uno.
 
 Version 1 is currently in development, it is planned to sleep all modules except timer1.
 
